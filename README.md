@@ -1,3 +1,3 @@
-# Handu-Projects
-Internship projects at Handu
+# Handu-Project
+Internship project at Handu
 
