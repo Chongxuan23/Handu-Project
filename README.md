@@ -12,9 +12,13 @@
 ## The uploaded files include:
 
 ● "orderdata.csv" is the input data where columns denote Order ID, UserId, SKU (item number).
+
 ● "Recommendation_1.py" contains the first type of algorithm.
+
 ● "Recommendation_1.csv" contains the result of the first type of algorithm. Each row consists of a user id followed by recommendations to that user id.
+
 ● "Recommendation_2.py" contains the second type of algorithm.
+
 ● "Recommendation_2.csv" contains the result of the second type of algorithm. Each row consists of a reference item followed by recommendations based on that reference item.
     
 
