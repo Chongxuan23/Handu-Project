@@ -1,7 +1,7 @@
 # Handu-Project
 # Internship project at Handu E-Commerce Clothing Company
 
-## The project contains two recommendation algorithms:
+## The project contains two recommendation algorithms
 
 ● Recommendation 1 advertises purchases of other people who buy the same product as the person of interest.
     It is aimed for a particular customer.
@@ -9,7 +9,7 @@
 ● Recommendation 2 is based on "Frequently Bought Together" idea that recommends items that are usually purchased in the same order.
     It is aimed for a particular product.
     
-## The uploaded files include:
+## Uploaded files
 
 ● "orderdata.csv" is the input data where columns denote Order ID, UserId, SKU (item number).
 
